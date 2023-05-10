@@ -1,7 +1,7 @@
 ### Hi, I'm Jumhari <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently learning html, css, js, php, java, Laravel android Studio
+- 🌱 &nbsp;I’m currently learning html, css, js, php, java, Laravel and android Studio
 - 💞️ Saya ingin berkolaborasi
 - 📫 Cara menghubungi saya - jumhari_01@yahoo.co.id
 
