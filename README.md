@@ -6,11 +6,11 @@
 - 📫 Cara menghubungi saya - jumhari_01@yahoo.co.id
 
 
-
 📊 &nbsp;**This week I spent my time on**
 
 ![Jumhari GitHub stats](https://github-readme-stats.vercel.app/api?username=jumhari&show_icons=true&theme=transparent)
   
+
 ### ✨&nbsp; About Me
 
 I am a student currently studying informatics.
