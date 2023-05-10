@@ -2,8 +2,8 @@
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning html, css, js, php, java, Laravel and android Studio
-- 💞️ Saya ingin berkolaborasi
-- 📫 Cara menghubungi saya - jumhari_01@yahoo.co.id
+- 💞️ I want to collaborate
+- 📫 How to contact me - jumhari_01@yahoo.co.id
 
 
 📊 &nbsp;**This week I spent my time on**
